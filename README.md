@@ -1,6 +1,6 @@
 #ZeboPOS Touch Screen POS Software
 
 More Information
-http://emreeren.github.com/ZeboPOS-3/
+https://github.com/MoriEdan/ZeboPOS-3-master
 
-Visit www.zebopos.tk for stable releases.
+Wait for www.zebopos.tk for stable releases.
